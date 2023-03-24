@@ -1,0 +1,781 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family:"Inter-Bold.ttf";
+    src: url(font/Inter-Bold.ttf);
+}
+@font-face {
+    font-family:"Inter-Light.ttf";
+    src: url(./Webfont/Inter-Light.ttf);
+}
+@font-face {
+    font-family:"Inter-Medium.ttf";
+    src: url(./Webfont/Inter-Medium.ttf);
+}
+
+
+/* navbar code open */
+
+.navbar-expand-lg .navbar-collapse {
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-nav {
+    gap: 65px;
+}
+
+a.nav-link:hover{
+    color: #1B1B1B;
+}
+
+a.nav-link {
+    color: #1B1B1B;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+input.CONTACT {
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: #F3F3F3;
+    background-color: #F0592A;
+    padding: 10px 30px 10px 30px;
+    border-radius: 4px;
+    border-style: none;
+    margin-left: 90px !important;
+}
+
+/* navbar code close */
+
+
+
+/* section 1 code open */
+
+.rectangle{
+    background-image: url(img/Rectangle\ 2.png);
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 300px;
+    padding-bottom: 100px;
+}
+
+.frame{
+    background-image: url(img/Frame.png);
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 300px;
+    padding-bottom: 100px;
+}
+
+.formillions{
+    color: #F3F3F3;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.Powerful{
+    color: #F3F3F3;
+    font-size: 56px;
+    font-weight: 500;
+}
+
+.para1{
+    color: #cdcdcd;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.sect1{
+    padding-top: 21px;
+}
+
+.getstarted{
+    color: #F0592A;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.parentdiv {
+    margin-left: 115px;
+}
+
+.spanflex {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+
+.ppp {
+    background-color: white;
+    padding: 35px 20px 35px 20px;
+    margin-left: -180px;
+    margin-right: 215px;
+    border-radius: 8px;
+    margin-top: -190px;
+}
+
+.para2{
+    color: #1B1B1B;
+    font-size: 26px;
+    font-weight: 500;
+}
+
+.para3{
+    color: #1B1B1B;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.enter{
+    width: 106%;
+    color: #acacac;
+    background: linear-gradient(0deg, #ECECEC, #ECECEC), linear-gradient(0deg, #F3F3F3, #F3F3F3);
+    font-size: 14px;
+    font-weight: 400;
+    padding: 12px 16px 12px 16px;
+    margin-bottom: 16px;
+    border-radius: 4px;
+    border-style: none;
+    margin-left: -10px;
+}
+
+.Message{
+    width: 106%;
+    color: #acacac;
+    font-size: 14px;
+    background: linear-gradient(0deg, #ECECEC, #ECECEC), linear-gradient(0deg, #F3F3F3, #F3F3F3);
+    font-weight: 400;
+    padding: 12px 16px 65px 16px;
+    margin-bottom: 16px;
+    border-radius: 4px;
+    border-style: none;
+    margin-left: -10px;
+}
+
+.SUBMIT{
+    color: #F3F3F3;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    background-color: #F0592A;
+    border-radius: 4px;
+    border-style: none;
+    width: 106%;
+    margin-left: -10px;
+    padding: 12px 0px 12px 0px;
+}
+
+/* section 1 code close */
+
+
+
+
+/* sectioen 2 code open */
+
+.vector{
+    background-image: url(img/Vector.png);
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 130px;
+    padding-bottom: 200px;
+}
+
+.aboutus{
+    color: #F0592A;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.whatwedo{
+    color: #1B1B1B;
+    font-size: 36px;
+    font-weight: 600;
+    padding-top: 14px;
+    margin: 0;
+}
+
+.para4{
+    color: #737373;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 24px;
+    line-height: 26px;
+    margin: 0;
+}
+
+.plusnumber{
+    font-size: 36px;
+    color: #1B1B1B;
+    font-weight: 600;
+    margin: 0;
+}
+
+.globalpresence{
+    color: #737373;
+    font-size: 15px;
+    font-weight: 500;
+    margin: 0;
+}
+
+.pareenntdivv {
+    display: flex;
+    align-items: center;
+    gap: 55px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.READMORE{
+    color: #F3F3F3;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    background-color: #F0592A;
+    padding: 12px 32px 12px 32px;
+    border-radius: 4px;
+}
+
+.READMORE:hover{
+    color: #F3F3F3;
+    text-decoration: none;
+}
+
+.smartworkspic{
+    border-radius: 25px;
+}
+
+.borderline{
+    border-right: 1px solid rgba(0, 0, 0, 0.12);
+    border-left: 1px solid rgba(0, 0, 0, 0.12);
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+/* sectioen 2 code close */
+
+
+/* section 3 code open */
+
+.OURSERVICES{
+    color: #F0592A;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    margin: 0;
+}
+
+.para5{
+    color: #1B1B1B;
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+    margin: 0;
+    padding-top: 14px;
+    line-height: 43px;
+}
+
+.sect2{
+    padding-top: 180px;
+}
+
+.divpic{
+    padding-top: 14px;
+}
+
+.para6{
+    color: #737373;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0;
+    padding-top: 16px;
+    line-height: 26px;
+}
+
+/* section 3 code close */
+
+
+
+/* section 4 code open */
+
+.boxdiv{
+    background-color: #EEEEEE;
+    padding: 20px 20px 45px 45px;
+    border-radius: 4px;
+    padding-top: 40px;
+}
+
+.Businessprocess{
+    color: #1B1B1B;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+    padding-top: 24px;
+}
+
+.para7{
+    color: #737373;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    margin: 0;
+    padding-top: 14px;
+}
+
+.sect3{
+    padding-top: 64px;
+}
+
+.sect4{
+    padding-top: 24px;
+}
+
+.sect5{
+    padding-top: 24px;
+}
+
+.sect6{
+    padding-top: 150px;
+}
+
+/* section 4 code close */
+
+
+
+/* section 8 code open */
+
+.appdevelopment{
+    width: 100%;
+}
+
+.box {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #ffff;
+    border-radius: 8px;
+    margin-top: -31px;
+    position: relative;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: poppins;
+    padding: 10px 10px;
+    margin-right: 25px;
+    color: #252525;
+    margin-left: 25px;
+}
+
+.sect7{
+    padding-top: 55px;
+}
+
+.VIEWALL{
+    color: #F3F3F3;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    background-color: #F0592A;
+    padding: 12px 32px 12px 32px;
+    border-radius: 4px;
+}
+
+.VIEWALL:hover{
+    color: #F3F3F3;
+    text-decoration: none;
+}
+
+.padding{
+    padding-top: 70px;
+}
+
+/* section 8 code close */
+
+
+/* section 10 code open */
+
+.vector2{
+    background-image: url(img/Vector\ 22.png);
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 350px;
+    padding-bottom: 150px;
+}
+
+.contactus{
+    color: #F0592A;
+    margin: 0;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.para8{
+    color: #1B1B1B;
+    margin: 0;
+    padding-top: 14px;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 38px;
+}
+
+.officelocation{
+    color: #1B1B1B;
+    margin: 0;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.para9{
+    color: #737373;
+    margin: 0;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+
+.details {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding-top: 64px;
+}
+
+.ppppp {
+    background-color: white;
+    box-shadow: 0px 0px 38px rgba(0, 0, 0, 0.08);
+    padding: 35px 20px 35px 20px;
+    border-radius: 8px;
+}
+
+/* section 10 code close */
+
+
+
+
+/* footer code open */
+
+.footercolor{
+    background-color: #1B1B1B;
+    padding-top: 150px;
+    padding-bottom: 20px;
+}
+
+.para10{
+    margin: 0;
+    padding-top: 27px;
+    color: #CCCCCC;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.parent ul li {
+    list-style-type: none !important;
+}
+
+ul li a {
+    color: #CCCC;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 0;
+}
+
+ul li a:hover{
+    color: #CCCC;
+    text-decoration: none;
+}
+
+li.gapppss {
+    padding-top: 20px;
+}
+
+.parent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quicklinks{
+    font-size: 20px;
+    font-weight: 600;
+    color: #F3F3F3;
+}
+
+ul.ulsets {
+    margin-left: -35px;
+    padding: 0px;
+}
+
+.parenntt {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    margin-left: 80px;
+}
+
+.numbers{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #CCCC;
+    margin: 0;
+}
+
+.flexeess {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    padding-top: 29px;
+}
+
+.numbers:hover{
+    color: #CCCC;
+    text-decoration: none;
+}
+
+.imgflexes {
+    display: flex;
+    align-items: center;
+    gap: 33px;
+    padding-top: 40px;
+}
+
+.liness {
+    padding-bottom: 0.5px;
+    background-color: #989899;
+    margin-top: 155px;
+}
+
+.Copyright{
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+    text-align: center;
+    margin-top: 21px;
+}
+
+/* footer code close */
+
+
+
+
+
+/*----------------------------------- About us page code open ----------------------------------- */
+
+.frameabout{
+    background-image: url(img/Frameabout.png);
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 280px;
+    padding-bottom: 100px;
+}
+
+.rectangleabout{
+    background-image: url(img/Rectangle\ 2.png);
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+
+
+.aboutuss{
+    color: #F3F3F3;
+    text-align: left;
+    font-size: 56px;
+    font-weight: 600;
+    margin-left: 130px;
+}
+
+
+img.rectangle11 {
+    position: absolute;
+}
+
+img.smartworksabout {
+    position: absolute;
+    border-radius: 25px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+img.cherrydeckabout {
+    position: absolute;
+    border-radius: 25px;
+    margin-left: 230px;
+    margin-top: 215px;
+}
+
+.whatwedoabout{
+    color: #1B1B1B;
+    font-size: 36px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.para11{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26px;
+    margin: 0;
+    color: #737373;
+    padding-top: 24px;
+}
+
+.textset {
+    margin-top: 60px;
+    margin-left: 55px;
+}
+
+.sect8{
+    padding-top: 105px;
+}
+
+.parentabout {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.borderlineabout {
+    border-right: 1px solid rgba(0, 0, 0, 0.12);
+    border-left: 1px solid rgba(0, 0, 0, 0.12);
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.sets {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+#sets{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.sect9 {
+    padding-top: 150px;
+}
+
+.sect10 {
+    padding-top: 150px;
+}
+
+.bankoffice{
+    font-size: 18px;
+    font-weight: 500;
+    color: #1B1B1B;
+    margin: 0;
+}
+
+.para12{
+    color: #737373;
+    font-size: 15px;
+    line-height: 26px;
+    font-weight: 400;
+    margin: 0;
+    padding-top: 8px;
+}
+
+.ourit{
+    font-size: 18px;
+    font-weight: 500;
+    color: #1B1B1B;
+    margin: 0;
+    padding-top: 40px;
+}
+
+.teamwork{
+    font-size: 18px;
+    font-weight: 500;
+    color: #1B1B1B;
+    margin: 0;
+    padding-top: 40px;
+}
+
+.sect11{
+    padding-top: 65px;
+}
+
+.footerimg{
+    background-image: url(img/Vector\ 22.png);
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 270px;
+    padding-bottom: 0;
+}
+
+section.sect12 {
+    margin-top: -110px;
+}
+
+.sect13{
+    padding-top: 100px;
+}
+
+/*----------------------------------- About us page code close ----------------------------------- */
+
+
+
+
+
+/*----------------------------------- PORTFOLIO page code open ----------------------------------- */
+
+.Actionableinsights {
+    margin: 0;
+    color: #1B1B1B;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.para13{
+    margin: 0;
+    color: #737373;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 16px;
+    line-height: 26px;
+}
+
+.sect14{
+    padding-top: 100px;
+}
+
+.Portfolioimages{
+    width: 100%;
+    height: auto;
+}
+
+.sect15{
+    padding-top: 60px;
+}
+
+.sect16{
+    padding-top: 35px;
+}
+
+.sect17{
+    padding-top: 150px;
+}
+
+/*----------------------------------- PORTFOLIO page code close ----------------------------------- */

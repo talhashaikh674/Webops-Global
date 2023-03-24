@@ -1,0 +1,413 @@
+@media (min-width: 320px) and (max-width: 767px){
+
+    img.navlogo {
+        width: 70%;
+    }
+
+    .navbar-nav {
+        gap: 1px;
+    }
+
+    input.CONTACT {
+        font-size: 14px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        color: #F3F3F3;
+        background-color: #F0592A;
+        padding: 10px 30px 10px 30px;
+        border-radius: 4px;
+        border-style: none;
+        margin-left: 0 !important;
+    }
+
+    .parentdiv {
+        margin-left: 0;
+    }
+
+    .rectangle {
+        padding-top: 130px;
+        padding-bottom: 100px;
+    }
+
+    .Powerful {
+        font-size: 28px;
+    }
+
+    .para1 br{
+        display: none;
+    }
+
+    .ppp {
+        background-color: white;
+        padding: 35px 20px 35px 20px;
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: -190px;
+    }
+
+    .smartworkspic {
+        border-radius: 20px;
+        width: 100%;
+        height: auto;
+    }
+
+    .aboutus {
+        font-size: 16px;
+        margin: 0;
+        margin-top: 22px;
+    }
+
+    .whatwedo {
+        font-size: 25px;
+    }
+
+    .pareenntdivv {
+        display: flex;
+        gap: 30px;
+        padding-top: 25px;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .READMORE {
+        margin-left: 50px;
+    }
+
+    .sect2 {
+        padding-top: 0;
+    }
+
+    .para5 {
+        font-size: 25px;
+    }
+
+    .para6 br {
+        display: none;
+    }
+
+    .boxdiv {
+        padding: 20px 20px 40px 40px;
+        margin-bottom: 20px;
+    }
+
+    .sect4 {
+        padding-top: 0px;
+    }
+
+    .sect5 {
+        padding-top: 0;
+    }
+
+    .sect3 {
+        padding-top: 30px;
+    }
+
+    .sect6 {
+        padding-top: 25px;
+    }
+
+    .footercolor {
+        padding-top: 80px;
+    }
+
+    .para10 {
+        font-size: 14px;
+    }
+
+    .appboxsets {
+        padding-bottom: 25px;
+    }
+
+    .sect7 {
+        padding-top: 0px;
+    }
+
+    .padding {
+        padding-top: 15px;
+    }
+
+    .box {
+        font-size: 16px;
+    }
+
+    .vector2 {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    .para8 {
+        padding-top: 14px;
+        font-size: 25px;
+    }
+
+    .para8 br {
+        display: none;
+    }
+
+    .details {
+        gap: 20px;
+        padding-top: 35px;
+    }
+
+    .para9 br {
+        display: none;
+    }
+
+    .ppppp {
+        padding: 35px 20px 35px 20px;
+        margin-top: 35px;
+    }
+
+    .para3 {
+        font-size: 14px;
+    }
+
+    section.secttt {
+        margin-top: 50px;
+    }
+
+    .parent {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        margin-top: 35px;
+    }
+
+
+    .parenntt {
+        display: flex;
+        flex-direction: column;
+        gap: 0px;
+        margin-left: 0;
+    }
+
+    li.gapppss {
+        margin-left: 35px;
+    }
+
+    .flexeess {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        padding-top: 20px;
+    }
+
+    .liness {
+        margin-top: 80px;
+    }
+
+    .rectangleabout {
+        background-size: cover;
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    .aboutuss {
+        font-size: 35px;
+        margin-left: 20px;
+    }
+
+    .frameabout {
+        padding-top: 100px;
+        padding-bottom: 113px;
+    }
+
+    img.rectangle11 {
+        position: absolute;
+        width: 90%;
+    }
+
+    img.smartworksabout {
+        margin-left: 0;
+        margin-top: 10px;
+        width: 85%;
+    }
+
+    img.cherrydeckabout {
+        margin-left: 0;
+        margin-top: 335px;
+        width: 85%;
+    }
+
+    .textset {
+        margin-top: 700px;
+        margin-left: 0;
+    }
+
+    .para11 {
+        padding-top: 12px;
+    }
+
+    .whatwedoabout {
+        font-size: 30px;
+    }
+
+    .parentabout {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .borderlineabout {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #sets {
+        display: flex;
+        align-items: center;
+        gap: 75px;
+    }
+
+    .sect9 {
+        padding-top: 35px;
+    }
+
+    .sect10 {
+        padding-top: 30px;
+    }
+
+    .sect11 {
+        padding-top: 35px;
+    }
+
+    .bankoffice {
+        padding-top: 30px;
+    }
+
+    .sect11 {
+        padding-top: 0px;
+    }
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+
+
+    .navbar-nav {
+        gap: 5px;
+    }
+
+    input.CONTACT {
+        margin-left: 0 !important;
+    }
+
+    .parentdiv {
+        margin-left: 30px;
+    }
+
+    .Powerful {
+        font-size: 38px;
+    }
+
+    .formillions {
+        font-size: 18px;
+    }
+
+    .ppp {
+        background-color: white;
+        padding: 35px 20px 35px 20px;
+        margin-left: -52px;
+        margin-right: 0px;
+        border-radius: 8px;
+        margin-top: -190px;
+    }
+
+    .smartworkspic {
+        border-radius: 20px;
+        width: 100%;
+    }
+
+    .para4 br {
+        display: none;
+    }
+
+    .pareenntdivv {
+        display: flex;
+        gap: 20px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        justify-content: space-around;
+    }
+
+
+    .para4 {
+        padding-top: 12px;
+    }
+
+    .sect2 {
+        padding-top: 0;
+    }
+
+    .para5 {
+        font-size: 30px;
+    }
+
+    .para7 br {
+        display: none;
+    }
+
+    .boxdiv {
+        padding: 20px 20px 40px 20px;
+        padding-top: 20px;
+    }
+
+    .box {
+        margin-top: -25px;
+        font-size: 15px;
+    }
+
+    .sect7 {
+        padding-top: 30px;
+    }
+
+    .para8 {
+        padding-top: 14px;
+        font-size: 25px;
+    }
+
+    .vector2 {
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+
+    .parenntt {
+        display: flex;
+        flex-direction: column;
+        gap: 0px;
+        margin-left: 0;
+    }
+
+    .numbers br {
+        display: none;
+    }
+
+    .numbers {
+        font-size: 15px;
+    }
+
+    .footercolor {
+        padding-top: 100px;
+        padding-bottom: 20px;
+    }
+
+    .liness {
+        margin-top: 70px;
+    }
+
+
+
+
+}
